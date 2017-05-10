@@ -1,2 +1,7 @@
 CURSO DE GIT E GIT HUB
 teste alteracao
+
+FORK
+Comit
+cd ../
+git clone<url>
